@@ -1,0 +1,352 @@
+{
+  "calendar": [
+    {
+      "id": 0,
+      "day": "Mon",
+      "time": "10:00",
+      "participant": [],
+      "nameOfTheEvent": "Мeeting"
+    },
+    {
+      "id": 1,
+      "day": "Mon",
+      "time": "11:00",
+      "participant": [
+        "Ann",
+        "Tom"
+      ],
+      "nameOfTheEvent": "Daily Standup"
+    },
+    {
+      "id": 2,
+      "day": "Mon",
+      "time": "12:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 3,
+      "day": "Mon",
+      "time": "13:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 4,
+      "day": "Mon",
+      "time": "14:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 5,
+      "day": "Mon",
+      "time": "15:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 6,
+      "day": "Mon",
+      "time": "16:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 7,
+      "day": "Mon",
+      "time": "17:00",
+      "participant": [
+        "Tom"
+      ],
+      "nameOfTheEvent": "Meeting"
+    },
+    {
+      "id": 8,
+      "day": "Mon",
+      "time": "18:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 9,
+      "day": "Tue",
+      "time": "10:00",
+      "participant": [
+        "Cat"
+      ],
+      "nameOfTheEvent": "Meeting"
+    },
+    {
+      "id": 10,
+      "day": "Tue",
+      "time": "11:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 11,
+      "day": "Tue",
+      "time": "12:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 12,
+      "day": "Tue",
+      "time": "13:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 13,
+      "day": "Tue",
+      "time": "14:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 14,
+      "day": "Tue",
+      "time": "15:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 15,
+      "day": "Tue",
+      "time": "16:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 16,
+      "day": "Tue",
+      "time": "17:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 17,
+      "day": "Tue",
+      "time": "18:00",
+      "participant": [
+        "Tom"
+      ],
+      "nameOfTheEvent": "Drink"
+    },
+    {
+      "id": 18,
+      "day": "Wed",
+      "time": "10:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 19,
+      "day": "Wed",
+      "time": "11:00",
+      "participant": [
+        "Bob"
+      ],
+      "nameOfTheEvent": "Meeting"
+    },
+    {
+      "id": 20,
+      "day": "Wed",
+      "time": "12:00",
+      "participant": [
+        "Ann",
+        "Tom"
+      ],
+      "nameOfTheEvent": "Go home"
+    },
+    {
+      "id": 21,
+      "day": "Wed",
+      "time": "13:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 22,
+      "day": "Wed",
+      "time": "14:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 23,
+      "day": "Wed",
+      "time": "15:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 24,
+      "day": "Wed",
+      "time": "16:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 25,
+      "day": "Wed",
+      "time": "17:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 26,
+      "day": "Wed",
+      "time": "18:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 27,
+      "day": "Thu",
+      "time": "10:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 28,
+      "day": "Thu",
+      "time": "11:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 29,
+      "day": "Thu",
+      "time": "12:00",
+      "participant": [
+        "Cat"
+      ],
+      "nameOfTheEvent": "Meeting"
+    },
+    {
+      "id": 30,
+      "day": "Thu",
+      "time": "13:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 31,
+      "day": "Thu",
+      "time": "14:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 32,
+      "day": "Thu",
+      "time": "15:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 33,
+      "day": "Thu",
+      "time": "16:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 34,
+      "day": "Thu",
+      "time": "17:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 35,
+      "day": "Thu",
+      "time": "18:00",
+      "participant": [
+        "Tom",
+        "Tom"
+      ],
+      "nameOfTheEvent": "Drink"
+    },
+    {
+      "id": 36,
+      "day": "Fri",
+      "time": "10:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 37,
+      "day": "Fri",
+      "time": "11:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 38,
+      "day": "Fri",
+      "time": "12:00",
+      "participant": [
+        "Ann",
+        "Bob",
+        "Cat",
+        "Tom"
+      ],
+      "nameOfTheEvent": "Retrospective"
+    },
+    {
+      "id": 39,
+      "day": "Fri",
+      "time": "13:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 40,
+      "day": "Fri",
+      "time": "14:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 41,
+      "day": "Fri",
+      "time": "15:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 42,
+      "day": "Fri",
+      "time": "16:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 43,
+      "day": "Fri",
+      "time": "17:00",
+      "participant": [],
+      "nameOfTheEvent": ""
+    },
+    {
+      "id": 44,
+      "day": "Fri",
+      "time": "18:00",
+      "participant": [
+        "Tom",
+        "Bob"
+      ],
+      "nameOfTheEvent": "Drink"
+    }
+  ],
+  "visitors": [
+    "Ann",
+    "Bob",
+    "Cat",
+    "Tom"
+  ]
+}
