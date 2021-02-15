@@ -179,8 +179,10 @@
       "id": 23,
       "day": "Wed",
       "time": "15:00",
-      "participant": [],
-      "nameOfTheEvent": ""
+      "participant": [
+        "Bob"
+      ],
+      "nameOfTheEvent": "Meeting"
     },
     {
       "id": 24,
